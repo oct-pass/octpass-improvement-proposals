@@ -1,5 +1,5 @@
 ---
-ocp: 1
+oct-v: 1
 title: Oct-Pass v1 specification
 author: Blockchain Contents Association
 created: 2021-01-06
