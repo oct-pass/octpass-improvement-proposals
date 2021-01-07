@@ -1,6 +1,6 @@
 ---
-oip: 1
-title: OIP Purpose and Guidelines
+ocp: 1
+title: Oct-Pass v1 specification
 author: Blockchain Contents Association
 created: 2021-01-06
 ---
