@@ -9,7 +9,8 @@
 ## Oct-Pass Improvement Proposal
 Oct-Pass Improvemen Proposal(OIP)として改善案を受付、4段階にわけ更新を行います。
 1. Idea
-Github上で1.Abstract:概要、2.Motivation:なぜ必要なのか、3.Specification:詳細のフォーマットに従ってIssueをたて議論を行ってください。
+1.Abstract:概要、2.Motivation:なぜ必要なのか、3.Specification:詳細
+上記フォーマットに従ってIssueをたて議論を行ってください。
 その後、新規OIPフォーマットに沿ってPull Requestを出してください。
 2. Draft
 当協会内で協議の上、ドラフトとして採用(Pull requestがmerge)されます。
