@@ -4,6 +4,7 @@
 
 # Oct-Pass
 「Oct-Pass」は誰でも無償で自由に利用することができるオープンなNFT共通仕様です。本仕様に準拠してNFTメタデータを作成することで、アプリケーション間におけるNFTの相互利用が容易にできるようになります。 これにより、ゲーム、SNS、マーケット、ウォレットなど異なるアプリケーションや、異なるブロックチェーンを跨いで、NFTで世界が繋がる「NFTメタバース」を実現する一助となることを目指しています。
+<br>
 詳細な仕様は[こちら](https://github.com/oct-pass/octpass-improvement-proposals/blob/main/OIPS/oip-1.md)をご参照ください。
 
 ## Oct-Pass Improvement Proposal
