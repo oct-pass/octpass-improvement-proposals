@@ -51,7 +51,7 @@ This specification aim to be a format that is suitable for using content in the 
 ### Contents
 | Item                 | Required       | Contents                                                                        | Example                                         |                                                            | 
 | -------------------- | ---------- | --------------------------------------------------------------------------- | ------------------------------------------ | ---------------------------------------------------------- | 
-| contents             | ○        |                                                                           | contents URI                              | https://www.mycryptoheroes.net/images/heroes/2000/5001.png | 
+| contents             | ◯        |                                                                           | contents URI                              | https://www.mycryptoheroes.net/images/heroes/2000/5001.png | 
 | （配列）             |            |                                                                             |                                            |                                                            | 
 | mime                 | ◯         | contents MIME type                                                        | image/png                                  |                                                            | 
 | license              |   | copyright                                                                            | copyright statement                           | © 2018 double jump.tokyo, inc                              | 
