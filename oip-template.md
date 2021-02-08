@@ -1,5 +1,5 @@
 ---
-oip: 割り当てられます。
+oip: It will be assigned.
 title: <OIP title>
 author: <a list of the author's or authors' name(s) and/or username(s), or name(s) and email(s), e.g. (use with the parentheses or triangular brackets): FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
 discussions-to: <URL>
@@ -7,24 +7,31 @@ status: draft
 created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
 ---
 
-これは、新しいOIPの推奨テンプレートです。
-
-OIP番号はリポジトリ管理者によって割り当てられることに注意してください。OIPS配下へプルリクエストを開いてください。プルリクエストを開いてOIPを送信するときは、ファイル名に省略形のタイトルを使用してくださいoip-draft_title_abbrev.md。
-
+This is the recommended template for the new OIP.								
+Please note that the OIP number is assigned by the repository administrator, so open a pull request under OIPS.								
+When you open a pull request and send an OIP, please use the abbreviated title in the file name oip-draft_title_abbrev.md.								
+The more you state clearly and completely , the higher quality feedback you receive.
 ## Abstract
-今回の提案に関する簡単な概要をお書きください。
+Keep in mind the guidelines for OCT-1.								
+Please write a brief summary of your proposal.
 
 ## Motivation
-このOIPの「理由」について説明する必要があります。それはどのような問題を解決しますか？なぜこの標準を実装したいのですか？どのようなメリットがありますか？このOIPはどのようなユースケースに対応していますか？
+It is needed to explain the reason of this OIP.  What problems does it solves?								
+Why do you want to implement this standard?								
+What are the benefits?								
+What use cases does this OIP address?					
 
 ## Specification
-技術的な仕様を詳細にお書きください。
+Please write down the technical specifications in detail.
 
 ## Rationale
-設計の動機と特定の設計決定が行われた理由を説明することにより、仕様を具体化します。検討された代替設計および関連する作業、たとえば、機能が他の言語でどのようにサポートされているかを説明する必要があります。
+This specification  is materialized by explaning the reason for  design motivation and  specific design decsion.								
+It is needed to explain Alternative designs reviewed and related work ,for example how function is supported by other languages.
 
 ## Backwards Compatibility
-後方非互換性を導入するすべてのOIPには、これらの非互換性とその重大度を説明するセクションを含める必要があります。OIPは、著者がこれらの非互換性に対処することを提案する方法を説明する必要があります。十分な下位互換性に関するセクションがないOIP提出は、拒否される場合があります。
+All OIPs that introduce backward incompatibilities should include a section describing these incompatibilities and their severity.								
+The OIP needs to explain  how creator propose the  way of dealing with these incompatibilities. 								
+OIP submission that does't include section for sufficient backward compatibility may be refused.
 
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).

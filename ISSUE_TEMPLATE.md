@@ -1,8 +1,8 @@
+ATTENTION!									
+If it has already been created as a draft (Refer to the [New OIP template]((https://github.com/oct-pass/octpass-improvement-proposals/blob/main/oip-template.md)) for an example), please send it as a [Pull Request](https://github.com/oct-pass/octpass-improvement-proposals/pulls).									
+If you are considering submitting an OIP, but want to receive feedback on your idea before submitting a draft, keep ISSUE open as a discussion thread.									
+The more you state clearly and completely , the higher quality feedback you receive.									
+									
+Please follow the guidelines of [OCT-1](https://github.com/oct-pass/octpass-improvement-proposals/blob/main/OCTS/oct-1.md).									
 
-ATTENTION! すでにドラフトとして作成されている場合、 (例については [新規OIPテンプレート](https://github.com/oct-pass/octpass-improvement-proposals/blob/main/oip-template.md)を参照)[Pull Request](https://github.com/oct-pass/octpass-improvement-proposals/pulls)として送信してください。
-
-OIP提出を検討しているが、ドラフトを提出する前にアイデアに関するフィードバックを受け取りたい場合は、ディスカッションのスレッドとしてISSUEを開き続けます。アイデアを明確かつ完全に述べるほど、受け取る可能性のあるフィードバックの質が高くなるはずです。
-
-[OCT-1](https://github.com/oct-pass/octpass-improvement-proposals/blob/main/OCTS/oct-1.md)のガイドラインに留意してください。
-
-> OIPを作成する前にアイデアをISSUEで公に検証することは、潜在的な作成者の時間を節約することを目的としています。アイデアが独創的であるかどうかを最初に議論することは、以前の議論で解決されているケースがある可能性を明確にします（インターネットを検索しても必ずしもうまくいくとは限りません）。また、アイデアが作成者だけでなくコミュニティ全体に認知されることとなります。アイデアが作者にとって有用なものでも、他者にとって有用なものであるとは限りません。
+> Checking your idea before creating OIP  in "issue" is intended to save time for potenrial creator.Discussing first whether an idea is original or not makes it clear that is  may be resolved in previous discussions.(Searching the Internet doesn't always work).Also, the idea will be recognized by entire community.  The idea useful for creator is not always useful for other s.									
