@@ -46,7 +46,6 @@ Github上で1.Abstract:概要、2.Motivation:なぜ必要なのか、3.Specifica
 | 項目                 | 必須       | 内容                                                                        | 例                                         |                                                            | 
 | -------------------- | ---------- | --------------------------------------------------------------------------- | ------------------------------------------ | ---------------------------------------------------------- | 
 | contents             | ◯        |                                                                           | コンテンツURI                              | https://www.mycryptoheroes.net/images/heroes/2000/5001.png | 
-| （配列）             |            |                                                                             |                                            |                                                            | 
 | mime                 | ◯         | コンテンツMIMEタイプ                                                        | image/png                                  |                                                            | 
 | license              |   | copyright                                                                            | コピーライト文言                           | © 2018 double jump.tokyo, inc                              | 
 | uri                  |            | ライセンス規約URL                                                           | https://www.mycryptoheroes.net/ja/terms    |                                                            | 
